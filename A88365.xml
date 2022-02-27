@@ -1,0 +1,348 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lamentable and tragicall history of Titus Andronicus with the fall of his five and twenty sons in the wars of [t]he Goaths, with the ravishment of his daughter Lavinia by the empresse [t]wo sons, through the means of a bloody Moor, taken by the swor[d] of Titus in the war, with his revenge upon them for their cruell an in humane [sic] act. To the tune of Fortune my foe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658-1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88365</idno>
+            <idno type="STC">Wing L252A</idno>
+            <idno type="STC">ESTC R226670</idno>
+            <idno type="EEBO-CITATION">99896354</idno>
+            <idno type="PROQUEST">99896354</idno>
+            <idno type="VID">154241</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88365)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154241)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2407:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lamentable and tragicall history of Titus Andronicus with the fall of his five and twenty sons in the wars of [t]he Goaths, with the ravishment of his daughter Lavinia by the empresse [t]wo sons, through the means of a bloody Moor, taken by the swor[d] of Titus in the war, with his revenge upon them for their cruell an in humane [sic] act. To the tune of Fortune my foe.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F, Coles T Vere and VV Gilbertson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing (CD-ROM edition) reports date of publication as [1658-64].</note>
+                  <note>Verse - "You noble minds and fomous [sic] martial wights".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:154241:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 107 -->
+            <pb facs="tcp:154241:1"/>
+            <!-- PDF PAGE 107 -->
+            <pb facs="tcp:154241:2"/>
+            <!-- PDF PAGE 108 -->
+            <pb facs="tcp:154241:2"/>
+            <!-- PDF PAGE 108 -->
+            <pb facs="tcp:154241:3"/>
+            <!-- PDF PAGE 109 -->
+            <pb facs="tcp:154241:3"/>
+            <!-- PDF PAGE 109 -->
+            <pb facs="tcp:154241:4"/>
+            <!-- PDF PAGE 110 -->
+            <head>The Lamentable and Tragicall Hiſtory of Titus An<g ref="char:EOLhyphen"/>dronicus, with the fall of his five and twenty ſons in the wars of <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Goaths, with the raviſhment of his daughter Lavinia by the Empreſſe <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wo ſons, through the means of a bloody Moor, taken by the ſwor<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Titus in the war, with his revenge upon them for their cruell an in humane act.</head>
+            <opener>To the tune of Fortune my Foe.</opener>
+            <p>
+               <figure>
+                  <p>
+                     <figure/>
+                  </p>
+               </figure>
+            </p>
+            <lg>
+               <l>YOu noble minds and fomous martial wights</l>
+               <l>That in defence of Native Country fights:</l>
+               <l>Give ere to me that ten years fought for <hi>Rome,</hi>
+               </l>
+               <l>Yet reapt diſgrace at my returning home.</l>
+            </lg>
+            <lg>
+               <l>In <hi>Rome</hi> I liv'd in fame full thrée ſcore years,</l>
+               <l>My name beloved was of all my Péers:</l>
+               <l>And five and twenty valiant ſons I had,</l>
+               <l>Whoſe forward vertues maid their father glad.</l>
+            </lg>
+            <lg>
+               <l>For when <hi>Romes</hi> foes their warlike forces felt,</l>
+               <l>Againſt them ſtill my ſons and I were ſent:</l>
+               <l>Againſt <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Goaths</hi> full ten yoars weary war</l>
+               <l>We ſpent, receiving many a bloody ſcar.</l>
+            </lg>
+            <lg>
+               <l>Iuſt two and twenty of my ſons were ſlain,</l>
+               <l>Before I did return to <hi>Rome</hi> again:</l>
+               <l>Of five and twenty ſo is I brought but thrée,</l>
+               <l>Alſoe the ſtately Towers of <hi>Rome</hi> to ſée.</l>
+            </lg>
+            <lg>
+               <l>when wars were done, I conqueſt home did bring</l>
+               <l>And did preſent my priſoners to the King:</l>
+               <l>The quéen of <hi>Goths</hi> her ſons and eke a More,</l>
+               <l>Who did ſuch murders like was none before.</l>
+            </lg>
+            <lg>
+               <l>The Emperour did make the Quéen his wife,</l>
+               <l>Which bred in <hi>Rome</hi> debate and deadly ſtrife:</l>
+               <l>The Moor with her two ſons did grow ſo proud,</l>
+               <l>That none like them in <hi>Rome</hi> was then allowd.</l>
+            </lg>
+            <lg>
+               <l>The Moor ſo pleaſ'd the now made Empreſs eye</l>
+               <l>That ſhe conſented with him ſecretly:</l>
+               <l>For to abuſe her huſbands marriage bed,</l>
+               <l>And ſo in time a Blackamore ſhe bred.</l>
+            </lg>
+            <lg>
+               <l>when ſhe whoſe thoughts to murder was inc<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in'd</l>
+               <l>Conſented with the Moor with bloody mind:</l>
+               <l>Againſt my ſelf my kind and all my friends,</l>
+               <l>In cruell ſort to bring them to their ends.</l>
+            </lg>
+            <lg>
+               <l>So when in age I thought to live in peace,</l>
+               <l>Both woe and grief began then to increaſe:</l>
+               <l>Amongſt my Sons I had one daughter bright,</l>
+               <l>Which joy'd and pleaſed beſt my aged ſight.</l>
+            </lg>
+            <lg>
+               <l>My <hi>Lavinia</hi> was betrothed then</l>
+               <l>To <hi>Ceſars</hi> ſon, a young and noble man:</l>
+               <l>Who in a hunting by the Emperours wife,</l>
+               <l>And her two ſons bereaved was of life,</l>
+            </lg>
+            <lg>
+               <l>He being ſlain was caſt in cruell wiſe,</l>
+               <l>Into a darkſome den from light of skies,</l>
+               <l>The cruell Moor did come that way as then,</l>
+               <l>With my thrée ſons, who fell into that den.</l>
+            </lg>
+            <lg>
+               <l>The Moor then fetcht the Emperour with ſpéed,</l>
+               <l>For to accuſe them of that murdrous déed:</l>
+               <l>And when my ſons within the den were found,</l>
+               <l>In wrongfull priſon they were caſt and bound.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>BVt now behold that wounded moſt my mind</l>
+               <l>The Empre<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> two ſons of Tygers kind:</l>
+               <l>My daughter raviſhed without remorce,</l>
+               <l>And took a way her honour quite perforce.</l>
+            </lg>
+            <lg>
+               <l>When they had taſted of ſo ſwéet a flower,</l>
+               <l>Fearing ſo ſwéet ſhould quickly turn to ſower:</l>
+               <l>They cut her tongue whereby ſho could not tell,</l>
+               <l>How that diſhonor unto her befell.</l>
+            </lg>
+            <lg>
+               <l>Then both her hands they baſely cut off quite,</l>
+               <l>Whereby their wickneſs ſhe could not write:</l>
+               <l>Nor with néedle on her Sampler ſow,</l>
+               <l>The bloody workers of her diſmall woe.</l>
+            </lg>
+            <lg>
+               <l>My brother <hi>Marcus</hi> found her in the wood,</l>
+               <l>St<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing the graſſy ground with purple blood:</l>
+               <l>That trickled from her ſtumps &amp; handleſs arms,</l>
+               <l>No tongue at all ſhe had to tell her harms.</l>
+            </lg>
+            <lg>
+               <l>But when I ſaw her in that wofull caſe,</l>
+               <l>With tears of blood I wet my aged face:</l>
+               <l>For my <hi>Lavinia</hi> I lamented more,</l>
+               <l>Then for my two and twenty ſons before.</l>
+            </lg>
+            <lg>
+               <l>When as I ſaw ſhe could not writ nor ſpeak,</l>
+               <l>With grief my aged heart began to break:</l>
+               <l>We ſpred a heap of ſand upon the ground,</l>
+               <l>Whereby theſe bloody tyrants we out found.</l>
+            </lg>
+            <lg>
+               <l>For with a ſtaffe without the help of hand,</l>
+               <l>She writ theſe words upon a plot of ſand:</l>
+               <l>The luſtfull ſons of the proud Empereſſe,</l>
+               <l>Are doers of this hatefull wickedneſſe.</l>
+            </lg>
+            <lg>
+               <l>I tore the milk white hairs from off my head,</l>
+               <l>I curſt the hour wherein I firſt was bred:</l>
+               <l>I wiſht the hand that fought for Countries fame</l>
+               <l>In cradle rockt has firſt béen ſtrucken lame.</l>
+            </lg>
+            <lg>
+               <l>The Moor delighting ſtill in villany,</l>
+               <l>Did ſay to ſet my ſons from priſon frée:</l>
+               <l>I ſhou<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d unto the King my right hand give,</l>
+               <l>And then my thrée impriſoned ſons ſhould live.</l>
+            </lg>
+            <lg>
+               <l>The Moor I caus'd to ſtrike it off with ſpéed,</l>
+               <l>Whereat I grieved not to ſée it bléed:</l>
+               <l>But for my ſons would willingly impart,</l>
+               <l>And for their randſome ſend my bléeding heart.</l>
+            </lg>
+            <lg>
+               <l>But as my life did linger then in vain,</l>
+               <l>They ſent to me my bootleſſe hand again:</l>
+               <l>And there withall the heads of my thrée ſons,</l>
+               <l>Which fild my dying heart with freſher groans.</l>
+            </lg>
+            <lg>
+               <l>Then paſt relief I up and down did go,</l>
+               <l>And with my tears writ in the duſt my wo,</l>
+               <l>I ſhot my arrow towards heaven high,</l>
+               <l>And for revenge to hell did ſometimes cry.</l>
+            </lg>
+            <lg>
+               <l>The Empreſſe thinking then that I was mad,</l>
+               <l>Like Furies ſhe and both her ſons were glad:</l>
+               <l>So nam'd revenge, and rape and murder they,</l>
+               <l>To undermine and know what I would ſay.</l>
+            </lg>
+            <lg>
+               <l>I fed their fooliſh veins a little ſpace,</l>
+               <l>Vntill my friends and I did fired a ſpace:</l>
+               <l>Where both her ſons unto a poſt were bound,</l>
+               <l>Where juſt revenge in cruell ſort was found.</l>
+            </lg>
+            <lg>
+               <l>I cut their throats my daughter held the pan</l>
+               <l>Betwixt her ſtumps, wherein the blood did ran:</l>
+               <l>And then I ground their bones to powder ſmall,</l>
+               <l>And made a paſte for Pies ſtraight there withall.</l>
+            </lg>
+            <lg>
+               <l>Then with their fleſh I made two mighty Pies,</l>
+               <l>And at a banquet ſerv'd in ſtately wiſe:</l>
+               <l>Before the Empreſſe ſet this loathſome meat,</l>
+               <l>So of her ſons own fleſh ſhe well did eat.</l>
+            </lg>
+            <lg>
+               <l>My ſelf bereav'd my daughter then of life,</l>
+               <l>The Empreſſe then I ſlew with bloody knife:</l>
+               <l>And ſtab'd the Emperour immediately,</l>
+               <l>And then my ſelf, and ſo did <hi>Titus</hi> dye.</l>
+            </lg>
+            <lg>
+               <l>Then this revenge againſt the Moor was ſound,</l>
+               <l>Alive they ſet him half into the ground:</l>
+               <l>Whereas he ſtood untill ſuch time he ſtarv'd.</l>
+               <l>And ſo God find all murderers may be ſerv'd.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. Coles T Vece and VV Gilbertſon,</p>
+            <pb facs="tcp:154241:5"/>
+            <!-- PDF PAGE 111 -->
+            <pb facs="tcp:154241:5"/>
+            <!-- PDF PAGE 111 -->
+            <pb facs="tcp:154241:6"/>
+            <!-- PDF PAGE 112 -->
+         </div>
+      </back>
+   </text>
+</TEI>
